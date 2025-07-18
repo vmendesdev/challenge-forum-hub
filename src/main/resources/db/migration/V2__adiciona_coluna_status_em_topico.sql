@@ -1,0 +1,1 @@
+ALTER TABLE Topico ADD COLUMN status VARCHAR(50);
